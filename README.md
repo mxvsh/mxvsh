@@ -13,3 +13,5 @@ Most of my work revolves around:
 - Open-source infrastructure
 - Product-focused engineering
 - Building polished and useful software
+
+[Join Discord Server](https://discord.gg/3kUSy2d)
