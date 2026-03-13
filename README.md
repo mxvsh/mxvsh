@@ -4,7 +4,7 @@
 
 ## About
 
-I enjoy designing systems that combine clean engineering with strong user experience ✨ — from developer utilities and automation workflows to full product platforms. 
+I enjoy designing systems that combine clean engineering with strong user experience — from developer utilities and automation workflows to full product platforms. 
 
 Most of my work revolves around:
 
@@ -14,4 +14,17 @@ Most of my work revolves around:
 - Product-focused engineering
 - Building polished and useful software
 
+## Recent projects
+
+- [drivebase](https://github.com/drivebase/drivebase)
+- [wave](https://github.com/mxvsh/wave)
+- [svglogo](https://svglogo.dev)
+- [promptsplanet](https://promptsplanet.dev)
+- [restflow](https://restflow.vercel.app)
+
+and many more ✨
+
+---
+
+[Website](https://monawwar.io)
 [Join Discord Server](https://discord.gg/3kUSy2d)
