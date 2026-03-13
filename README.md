@@ -14,17 +14,16 @@ Most of my work revolves around:
 - Product-focused engineering
 - Building polished and useful software
 
-## Recent projects
+## Featured projects
 
-- [drivebase](https://github.com/drivebase/drivebase)
-- [wave](https://github.com/mxvsh/wave)
-- [svglogo](https://svglogo.dev)
-- [promptsplanet](https://promptsplanet.dev)
-- [restflow](https://restflow.vercel.app)
+- [drivebase](https://github.com/drivebase/drivebase) - unified file manager
+- [wave](https://github.com/mxvsh/wave) - <2MB macOS dictation app
+- [svglogo](https://svglogo.dev) - transform svg icon to logo
+- [promptsplanet](https://promptsplanet.dev) - curated web design ai prompts
+- [restflow](https://restflow.vercel.app) - human-readable dsl for testing api flow
 
 and many more ✨
 
 ---
 
-[Website](https://monawwar.io)
-[Join Discord Server](https://discord.gg/3kUSy2d)
+<a href="https://discord.gg/3kUSy2d">Join Discord Server</a>
