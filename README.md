@@ -16,6 +16,7 @@ Most of my work revolves around:
 
 ## Featured projects
 
+- [jelly](https://github.com/jelly-editor) - <15MB code editor
 - [drivebase](https://github.com/drivebase/drivebase) - unified file manager
 - [wave](https://github.com/mxvsh/wave) - <2MB macOS dictation app
 - [svglogo](https://svglogo.dev) - transform svg icon to logo
